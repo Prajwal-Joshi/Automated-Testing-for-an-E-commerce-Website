@@ -1,6 +1,5 @@
 # EcommerceTestAutomation
-Application used: [https://naveenautomationlabs.com/opencart/](url)
-
+Application used: https://naveenautomationlabs.com/opencart/
 A Java Selenium TestNG framework is a robust automation framework that leverages Java programming language, Selenium WebDriver for web interactions, and TestNG for efficient test organization and execution. It provides a structured approach to writing and executing automated test scripts.
 
 # Steps to configure and run the automated test scripts.
@@ -12,9 +11,8 @@ Go to File > Open Projects from File System...
 Browse and select the project folder (containing src, test output, etc.).
 
 Click Finish.
-b) Download the latest version of Java Selenium binding from [https://www.selenium.dev/downloads/](url)
-
-c) Download TestNg Jar file from [https://mvnrepository.com/artifact/org.testng/testng/6.9.10](url)
+b) Download the latest version of Java Selenium binding from https://www.selenium.dev/downloads/
+c) Download TestNG Jar file from https://mvnrepository.com/artifact/org.testng/testng/6.9.10
 
 2. Configure Java Build Path:
 Right-click on the project in Eclipse.
