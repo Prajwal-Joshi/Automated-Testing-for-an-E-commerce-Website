@@ -1,4 +1,10 @@
 # EcommerceTestAutomation
+List of Documents Available in Below Google Drive Link
+1) Test Strategy Document 2) Test Plan 3) Test Cases 4) Choosing Test Automation Framework:
+
+https://drive.google.com/drive/folders/1bQPhLU1RXWTzPLVAorhQpCctVE3S7Dpe?usp=sharing
+
+
 Application used: https://naveenautomationlabs.com/opencart/
 A Java Selenium TestNG framework is a robust automation framework that leverages Java programming language, Selenium WebDriver for web interactions, and TestNG for efficient test organization and execution. It provides a structured approach to writing and executing automated test scripts.
 
