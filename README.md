@@ -1,4 +1,5 @@
 # EcommerceTestAutomation
+Application used: [https://naveenautomationlabs.com/opencart/](url)
 
 A Java Selenium TestNG framework is a robust automation framework that leverages Java programming language, Selenium WebDriver for web interactions, and TestNG for efficient test organization and execution. It provides a structured approach to writing and executing automated test scripts.
 
