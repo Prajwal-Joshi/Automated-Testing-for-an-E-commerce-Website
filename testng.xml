@@ -1,0 +1,11 @@
+<suite name="TestSuite">
+  <test name="LoginTest"/>
+  <test name="Add_And_Remove_Product_From_Wishlist"/>
+  <test name="SearchAnd_AddingProductToCart">
+    <classes>
+       <class name="tests.LoginTest"/>
+       <class name="tests.Add_And_Remove_Product_From_Wishlist"/>
+       <class name="tests.SearchAnd_AddingProductToCart"/>
+   </classes>
+ </test>
+ </suite>

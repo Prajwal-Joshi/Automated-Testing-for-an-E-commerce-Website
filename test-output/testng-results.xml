@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-17T13:53:23 IST" name="TestSuite" finished-at="2024-01-17T13:54:12 IST" duration-ms="49504">
+    <groups>
+    </groups>
+    <test started-at="2024-01-17T13:53:23 IST" name="LoginTest" finished-at="2024-01-17T13:53:23 IST" duration-ms="7">
+    </test> <!-- LoginTest -->
+    <test started-at="2024-01-17T13:53:23 IST" name="Add_And_Remove_Product_From_Wishlist" finished-at="2024-01-17T13:53:23 IST" duration-ms="1">
+    </test> <!-- Add_And_Remove_Product_From_Wishlist -->
+    <test started-at="2024-01-17T13:53:23 IST" name="SearchAnd_AddingProductToCart" finished-at="2024-01-17T13:54:12 IST" duration-ms="49423">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@359f7cdf]" started-at="2024-01-17T13:53:23 IST" name="setUp" finished-at="2024-01-17T13:53:30 IST" duration-ms="7387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginToApplication()[pri:0, instance:tests.LoginTest@359f7cdf]" started-at="2024-01-17T13:53:30 IST" name="loginToApplication" finished-at="2024-01-17T13:53:37 IST" duration-ms="6327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@359f7cdf]" started-at="2024-01-17T13:53:37 IST" name="tearDown" finished-at="2024-01-17T13:53:37 IST" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.Add_And_Remove_Product_From_Wishlist">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Add_And_Remove_Product_From_Wishlist@436813f3]" started-at="2024-01-17T13:53:37 IST" name="setUp" finished-at="2024-01-17T13:53:44 IST" duration-ms="6949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addAndRemoveProductFromWishlist()[pri:0, instance:tests.Add_And_Remove_Product_From_Wishlist@436813f3]" started-at="2024-01-17T13:53:44 IST" name="addAndRemoveProductFromWishlist" finished-at="2024-01-17T13:53:51 IST" duration-ms="6581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAndRemoveProductFromWishlist -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Add_And_Remove_Product_From_Wishlist@436813f3]" started-at="2024-01-17T13:53:51 IST" name="tearDown" finished-at="2024-01-17T13:53:51 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Add_And_Remove_Product_From_Wishlist -->
+      <class name="tests.SearchAnd_AddingProductToCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SearchAnd_AddingProductToCart@74fe5c40]" started-at="2024-01-17T13:53:51 IST" name="setUp" finished-at="2024-01-17T13:53:57 IST" duration-ms="6172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchAndAddingProductToTheCart()[pri:0, instance:tests.SearchAnd_AddingProductToCart@74fe5c40]" started-at="2024-01-17T13:53:57 IST" name="searchAndAddingProductToTheCart" finished-at="2024-01-17T13:54:12 IST" duration-ms="14715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndAddingProductToTheCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchAnd_AddingProductToCart@74fe5c40]" started-at="2024-01-17T13:54:12 IST" name="tearDown" finished-at="2024-01-17T13:54:12 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SearchAnd_AddingProductToCart -->
+    </test> <!-- SearchAnd_AddingProductToCart -->
+  </suite> <!-- TestSuite -->
+</testng-results>
